@@ -30,6 +30,7 @@ This analytical dashboard transforms raw UPI transaction records into meaningful
      ❌ Failed: ₹2.3 Cr  
 
  🌆 City-Wise Distribution
+ 
     1. Identify top-performing cities by volume  
     2. Detect failure-prone regions  
     3. Optimize UPI adoption strategy
@@ -38,10 +39,10 @@ This analytical dashboard transforms raw UPI transaction records into meaningful
 
 🧩 Interactive Filters
 
-  📍 City: Delhi, Mumbai, Bengaluru, etc.  
-  📊 Transaction Status: Success, Failure  
-  🗓️ Date Range: Monthly/Quarterly  
-  💼 Transaction Type: Merchant, P2P  
+   📍 City: Delhi, Mumbai, Bengaluru, etc.  
+   📊 Transaction Status: Success, Failure  
+   🗓️ Date Range: Monthly/Quarterly  
+   💼 Transaction Type: Merchant, P2P  
 
 
 
