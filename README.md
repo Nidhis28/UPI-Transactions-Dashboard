@@ -1,12 +1,12 @@
 💸 UPI Transactions Analytics Dashboard
 
-A comprehensive **Power BI dashboard** analyzing UPI (Unified Payments Interface) transaction data across multiple cities in India. This project provides actionable insights into transaction performance, success rates, failure patterns, and city-wise behavior—enabling better decision-making in the digital payments space.
+A comprehensive Power BI dashboard analyzing UPI (Unified Payments Interface) transaction data across multiple cities in India. This project provides actionable insights into transaction performance, success rates, failure patterns, and city-wise behavior—enabling better decision-making in the digital payments space.
 
 
 
 🧾 Project Overview
 
-This analytical dashboard transforms raw UPI transaction records into meaningful visualizations using **Power BI**. It enables users to interactively explore metrics by city, transaction status, and total amounts. Built for digital payment analysts, fintech teams, and business strategists monitoring transaction ecosystems.
+This analytical dashboard transforms raw UPI transaction records into meaningful visualizations using Power BI. It enables users to interactively explore metrics by city, transaction status, and total amounts. Built for digital payment analysts, fintech teams, and business strategists monitoring transaction ecosystems.
 
 
  📊 Key Metrics & KPIs
@@ -39,10 +39,10 @@ This analytical dashboard transforms raw UPI transaction records into meaningful
 
 🧩 Interactive Filters
 
-   📍 City: Delhi, Mumbai, Bengaluru, etc.  
-   📊 Transaction Status: Success, Failure  
-   🗓️ Date Range: Monthly/Quarterly  
-   💼 Transaction Type: Merchant, P2P  
+    📍 City: Delhi, Mumbai, Bengaluru, etc.  
+    📊 Transaction Status: Success, Failure  
+    🗓️ Date Range: Monthly/Quarterly  
+    💼 Transaction Type: Merchant, P2P  
 
 
 
