@@ -58,11 +58,11 @@ This analytical dashboard transforms raw UPI transaction records into meaningful
 
 💼 Business Use Cases
 
-   1. Monitor :- UPI transaction health across cities  
-   2. Detect and troubleshoot :- technical issues via failure patterns  
-   3. Track :- user adoption and payment frequency  
-   4. Guide :-marketing campaigns based on city data  
-   5. Improve :- digital infrastructure planning 
+    1. Monitor :- UPI transaction health across cities  
+    2. Detect and troubleshoot :- technical issues via failure patterns  
+    3. Track :- user adoption and payment frequency  
+    4. Guide :-marketing campaigns based on city data  
+    5. Improve :- digital infrastructure planning 
 
 
 
