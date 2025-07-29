@@ -68,18 +68,18 @@ This analytical dashboard transforms raw UPI transaction records into meaningful
 
  📂 Data Source
 
-  Name: UPI Transactions Dataset  
-  Format: `.csv`, `.xlsx`  
-  Size: 2 MB  
-  Note: Synthetic dataset created for demonstration purposes only.
+     Name: UPI Transactions Dataset  
+     Format: `.csv`, `.xlsx`  
+     Size: 2 MB  
+     Note: Synthetic dataset created for demonstration purposes only.
 
 
 
  🧠 Tech Stack
 
-- Power BI Desktop  
-- Microsoft Excel / CSV  
-- GitHub (for documentation & version control)
+     - Power BI Desktop  
+     - Microsoft Excel / CSV  
+     - GitHub (for documentation & version control)
 
 
  📷 Dashboard Preview
